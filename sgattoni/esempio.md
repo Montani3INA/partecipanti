@@ -8,6 +8,6 @@
 
 Cose che mi piacciono dell' [ITT](https://www.istitutomontani.edu.it/web/")
 - Fabiano
-- Deminicis
+- Decinimis
 - Giocare a briscola durante la pausa pranzo
 - Mimmo
