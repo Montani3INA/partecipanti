@@ -1,4 +1,4 @@
-> Tommaso Seghetta  
+#### Tommaso Seghetta  
 
 ---  
 
@@ -8,9 +8,9 @@
 
 ## cose che mi piacciono dell'ITI:  
 
-1 cibo  
-2 bagni  
-3 laboratori  
-4 pc  
-5 parcheggi  
+- cibo  
+- bagni  
+- laboratori  
+- pc  
+- parcheggi  
 
