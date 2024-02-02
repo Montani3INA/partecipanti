@@ -6,7 +6,7 @@
 
 ---  
 
-##cose che mi piacciono dell'ITI:  
+## cose che mi piacciono dell'ITI:  
 
 1 cibo  
 2 bagni  
