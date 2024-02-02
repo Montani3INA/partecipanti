@@ -1,7 +1,4 @@
-#Vallasciani Christian 
 
-###Data:### 02/02/2024
-***
 
  # **Vallasciani Christian** #
   ***
