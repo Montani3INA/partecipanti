@@ -6,7 +6,7 @@
 
 ---
 
-Cose che mi piacciono dell' (ITT)["https://www.istitutomontani.edu.it/web/"]
+Cose che mi piacciono dell' [ITT](https://www.istitutomontani.edu.it/web/")
 - Fabiano
 - Deminicis
 - Emu6069
