@@ -9,9 +9,11 @@
 
  Cose che mi piacciono dell'[ITT](https://www.istitutomontani.edu.it/web/)
 
--**Silvia Valori**
+- **Silvia Valori**
 - Barone 
 - Lomba
+- shamel
+- furb
  
 
 
